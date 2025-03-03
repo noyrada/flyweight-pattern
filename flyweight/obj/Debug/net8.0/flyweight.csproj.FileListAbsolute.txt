@@ -1,0 +1,28 @@
+C:\Users\User\source\repos\flyweight\bin\Debug\net8.0\flyweight.exe
+C:\Users\User\source\repos\flyweight\bin\Debug\net8.0\flyweight.deps.json
+C:\Users\User\source\repos\flyweight\bin\Debug\net8.0\flyweight.runtimeconfig.json
+C:\Users\User\source\repos\flyweight\bin\Debug\net8.0\flyweight.dll
+C:\Users\User\source\repos\flyweight\bin\Debug\net8.0\flyweight.pdb
+C:\Users\User\source\repos\flyweight\obj\Debug\net8.0\flyweight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\flyweight\obj\Debug\net8.0\flyweight.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\flyweight\obj\Debug\net8.0\flyweight.AssemblyInfo.cs
+C:\Users\User\source\repos\flyweight\obj\Debug\net8.0\flyweight.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\flyweight\obj\Debug\net8.0\flyweight.dll
+C:\Users\User\source\repos\flyweight\obj\Debug\net8.0\refint\flyweight.dll
+C:\Users\User\source\repos\flyweight\obj\Debug\net8.0\flyweight.pdb
+C:\Users\User\source\repos\flyweight\obj\Debug\net8.0\flyweight.genruntimeconfig.cache
+C:\Users\User\source\repos\flyweight\obj\Debug\net8.0\ref\flyweight.dll
+D:\RUPP_Academic\Y4-E2-G25\OOAD and Prog\Semester II\PRACTICE\Pattern\flyweight\bin\Debug\net8.0\flyweight.exe
+D:\RUPP_Academic\Y4-E2-G25\OOAD and Prog\Semester II\PRACTICE\Pattern\flyweight\bin\Debug\net8.0\flyweight.deps.json
+D:\RUPP_Academic\Y4-E2-G25\OOAD and Prog\Semester II\PRACTICE\Pattern\flyweight\bin\Debug\net8.0\flyweight.runtimeconfig.json
+D:\RUPP_Academic\Y4-E2-G25\OOAD and Prog\Semester II\PRACTICE\Pattern\flyweight\bin\Debug\net8.0\flyweight.dll
+D:\RUPP_Academic\Y4-E2-G25\OOAD and Prog\Semester II\PRACTICE\Pattern\flyweight\bin\Debug\net8.0\flyweight.pdb
+D:\RUPP_Academic\Y4-E2-G25\OOAD and Prog\Semester II\PRACTICE\Pattern\flyweight\obj\Debug\net8.0\flyweight.GeneratedMSBuildEditorConfig.editorconfig
+D:\RUPP_Academic\Y4-E2-G25\OOAD and Prog\Semester II\PRACTICE\Pattern\flyweight\obj\Debug\net8.0\flyweight.AssemblyInfoInputs.cache
+D:\RUPP_Academic\Y4-E2-G25\OOAD and Prog\Semester II\PRACTICE\Pattern\flyweight\obj\Debug\net8.0\flyweight.AssemblyInfo.cs
+D:\RUPP_Academic\Y4-E2-G25\OOAD and Prog\Semester II\PRACTICE\Pattern\flyweight\obj\Debug\net8.0\flyweight.csproj.CoreCompileInputs.cache
+D:\RUPP_Academic\Y4-E2-G25\OOAD and Prog\Semester II\PRACTICE\Pattern\flyweight\obj\Debug\net8.0\flyweight.dll
+D:\RUPP_Academic\Y4-E2-G25\OOAD and Prog\Semester II\PRACTICE\Pattern\flyweight\obj\Debug\net8.0\refint\flyweight.dll
+D:\RUPP_Academic\Y4-E2-G25\OOAD and Prog\Semester II\PRACTICE\Pattern\flyweight\obj\Debug\net8.0\flyweight.pdb
+D:\RUPP_Academic\Y4-E2-G25\OOAD and Prog\Semester II\PRACTICE\Pattern\flyweight\obj\Debug\net8.0\flyweight.genruntimeconfig.cache
+D:\RUPP_Academic\Y4-E2-G25\OOAD and Prog\Semester II\PRACTICE\Pattern\flyweight\obj\Debug\net8.0\ref\flyweight.dll
